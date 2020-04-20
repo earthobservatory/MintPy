@@ -29,6 +29,8 @@ dependencies:
   - pyresample
   - scikit-image
   - scipy
+  - gdal
+  - click
   - pip:
     - git+https://github.com/tylere/pykml.git
 
