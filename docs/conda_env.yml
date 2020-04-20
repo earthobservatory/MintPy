@@ -31,5 +31,7 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
+  - gdal
+  - click
   - pip:
     - git+https://github.com/tylere/pykml.git
